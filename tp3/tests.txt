@@ -1,0 +1,3 @@
+Calculs sur CPU :
+
+./MatrixProduct -c CPU -cpu-k 0 -cpu-nt 12
